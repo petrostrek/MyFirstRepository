@@ -1,3 +1,3 @@
 fo = open("Testing Jenkins.txt", "wb")
-fo.write( "First line of testing for jenkins.\nYeah its great!!\n");
+fo.write( "Hello! First line of testing for jenkins.");
 fo.close()
